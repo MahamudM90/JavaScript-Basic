@@ -1,4 +1,4 @@
-//Lexical Scoping
+// Lexical Scoping
 function init() {
   let name = 'Google Chrome'; // name is a local variable created by init
   function displayName() {
