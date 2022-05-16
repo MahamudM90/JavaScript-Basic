@@ -1,4 +1,4 @@
-var firstName = 'Mahamud';
+var firstName = 'mahamud';
 var age = 22;
 
 if (age < 13) {
