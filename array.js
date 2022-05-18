@@ -10,7 +10,7 @@ names[1] = 'Ben';
 names[names.length] = 'Mary';
 console.log(names);
 
-// Different data types
+// Different Data types
 var john = ['John', 'Smith', 1990, 'designer', false];
 
 john.push('blue'); // last input
