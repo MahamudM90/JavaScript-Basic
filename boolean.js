@@ -1,5 +1,5 @@
 var firstName = 'mahamud';
-var age = 22;
+var age = 23;
 
 if (age < 13) {
   // if age is less than 13 then this condition will execute
